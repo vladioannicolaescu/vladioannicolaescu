@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vlad!
 - 👀 I’m interested in collaborations with companies and individuals for any Software Development projects.
-- 🌱 I’m currently learning Flutter, React and networks. I have experience in Java, C, C++, Haskell, JavaScript, HTML/CSS, NodeJS, SQL, Python.
-- 💞️ I’m looking to collaborate on Web/Mobile Apps Development.
+- 🌱 I’m currently learning Flutter, React, and networks. I have experience in Java, C, C++, Haskell, JavaScript, HTML/CSS, NodeJS, SQL, Python.
+- 💞️ I’m looking to collaborate on Web/Mobile Apps Development, on either Frontend, Backend, or Full Stack.
 - 📫 Reach me at https://vladnicolaescu.com/contact.html or by direct message on LinkedIn https://www.linkedin.com/in/vlad-nicolaescu/
 
 <!---
